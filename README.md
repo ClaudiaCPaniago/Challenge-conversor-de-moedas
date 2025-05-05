@@ -3,6 +3,12 @@
 Este é um projeto de conversor de moedas desenvolvido em Java, que utiliza a **[ExchangeRate-API](https://www.exchangerate-api.com/)** para obter taxas de câmbio atualizadas. O usuário pode escolher entre várias opções de conversão e inserir o valor desejado para obter o valor convertido.
  Este projeto faz parte de um desafio do programa ONE ORACLE G8.
 
+ ## Certificação
+ 
+Fui reconhecida com a seguinte insígnia pelo programa ONE ORACLE:
+<br>
+ ![badge](Badge-Conversor.png)
+
 ## Pré-requisitos
 Antes de executar o projeto, certifique-se de ter:
 
